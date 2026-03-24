@@ -10,9 +10,6 @@
 *.iml
 .vscode/
 
-# Gradle
-.gradle/
-
 # Local
 *.log
 .env
